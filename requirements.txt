@@ -1,0 +1,7 @@
+cryptography
+
+customtkinter
+
+tkinterdnd2
+
+packaging
